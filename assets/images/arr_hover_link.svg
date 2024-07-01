@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="vmxq6x2qta">
+            <path data-name="사각형 11" transform="translate(987 8707)" style="fill:#fff;stroke:#707070" d="M0 0h24v24H0z"/>
+        </clipPath>
+    </defs>
+    <g transform="translate(-987 -8707)" style="clip-path:url(#vmxq6x2qta)">
+        <path data-name="패스 10" d="M952.414 8710.273h18v18" transform="translate(39.086 -1.773)" style="fill:none;stroke:#fff;stroke-width:3px"/>
+        <path data-name="선 4" transform="translate(988.5 8709.5)" style="fill:none;stroke:#fff;stroke-width:3px" d="M20 0 0 20"/>
+    </g>
+</svg>
